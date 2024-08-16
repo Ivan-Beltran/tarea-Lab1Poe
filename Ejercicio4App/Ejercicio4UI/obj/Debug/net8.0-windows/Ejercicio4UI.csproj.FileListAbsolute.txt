@@ -1,0 +1,16 @@
+C:\Users\ivanb\formularios\repos\Ejercicio4App\Ejercicio4UI\obj\Debug\net8.0-windows\Ejercicio4UI.csproj.GenerateResource.cache
+C:\Users\ivanb\formularios\repos\Ejercicio4App\Ejercicio4UI\obj\Debug\net8.0-windows\Ejercicio4UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanb\formularios\repos\Ejercicio4App\Ejercicio4UI\obj\Debug\net8.0-windows\Ejercicio4UI.AssemblyInfoInputs.cache
+C:\Users\ivanb\formularios\repos\Ejercicio4App\Ejercicio4UI\obj\Debug\net8.0-windows\Ejercicio4UI.AssemblyInfo.cs
+C:\Users\ivanb\formularios\repos\Ejercicio4App\Ejercicio4UI\obj\Debug\net8.0-windows\Ejercicio4UI.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\formularios\repos\Ejercicio4App\Ejercicio4UI\bin\Debug\net8.0-windows\Ejercicio4UI.exe
+C:\Users\ivanb\formularios\repos\Ejercicio4App\Ejercicio4UI\bin\Debug\net8.0-windows\Ejercicio4UI.deps.json
+C:\Users\ivanb\formularios\repos\Ejercicio4App\Ejercicio4UI\bin\Debug\net8.0-windows\Ejercicio4UI.runtimeconfig.json
+C:\Users\ivanb\formularios\repos\Ejercicio4App\Ejercicio4UI\bin\Debug\net8.0-windows\Ejercicio4UI.dll
+C:\Users\ivanb\formularios\repos\Ejercicio4App\Ejercicio4UI\bin\Debug\net8.0-windows\Ejercicio4UI.pdb
+C:\Users\ivanb\formularios\repos\Ejercicio4App\Ejercicio4UI\obj\Debug\net8.0-windows\Ejercicio4UI.dll
+C:\Users\ivanb\formularios\repos\Ejercicio4App\Ejercicio4UI\obj\Debug\net8.0-windows\refint\Ejercicio4UI.dll
+C:\Users\ivanb\formularios\repos\Ejercicio4App\Ejercicio4UI\obj\Debug\net8.0-windows\Ejercicio4UI.pdb
+C:\Users\ivanb\formularios\repos\Ejercicio4App\Ejercicio4UI\obj\Debug\net8.0-windows\Ejercicio4UI.genruntimeconfig.cache
+C:\Users\ivanb\formularios\repos\Ejercicio4App\Ejercicio4UI\obj\Debug\net8.0-windows\ref\Ejercicio4UI.dll
+C:\Users\ivanb\formularios\repos\Ejercicio4App\Ejercicio4UI\obj\Debug\net8.0-windows\Ejercicio4UI.MainForm.resources
