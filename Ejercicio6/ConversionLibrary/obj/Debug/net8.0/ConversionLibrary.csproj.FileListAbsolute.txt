@@ -1,0 +1,11 @@
+C:\Users\MINEDUCYT\source\repos\Ejercicio6\ConversionLibrary\bin\Debug\net8.0\ConversionLibrary.deps.json
+C:\Users\MINEDUCYT\source\repos\Ejercicio6\ConversionLibrary\bin\Debug\net8.0\ConversionLibrary.dll
+C:\Users\MINEDUCYT\source\repos\Ejercicio6\ConversionLibrary\bin\Debug\net8.0\ConversionLibrary.pdb
+C:\Users\MINEDUCYT\source\repos\Ejercicio6\ConversionLibrary\obj\Debug\net8.0\ConversionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\Ejercicio6\ConversionLibrary\obj\Debug\net8.0\ConversionLibrary.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\Ejercicio6\ConversionLibrary\obj\Debug\net8.0\ConversionLibrary.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\Ejercicio6\ConversionLibrary\obj\Debug\net8.0\ConversionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\Ejercicio6\ConversionLibrary\obj\Debug\net8.0\ConversionLibrary.dll
+C:\Users\MINEDUCYT\source\repos\Ejercicio6\ConversionLibrary\obj\Debug\net8.0\refint\ConversionLibrary.dll
+C:\Users\MINEDUCYT\source\repos\Ejercicio6\ConversionLibrary\obj\Debug\net8.0\ConversionLibrary.pdb
+C:\Users\MINEDUCYT\source\repos\Ejercicio6\ConversionLibrary\obj\Debug\net8.0\ref\ConversionLibrary.dll
