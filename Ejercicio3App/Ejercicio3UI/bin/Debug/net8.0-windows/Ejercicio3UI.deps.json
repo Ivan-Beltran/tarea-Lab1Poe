@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicio3UI/1.0.0": {
+        "dependencies": {
+          "ShapesLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio3UI.dll": {}
+        }
+      },
+      "ShapesLibrary/1.0.0": {
+        "runtime": {
+          "ShapesLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio3UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShapesLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

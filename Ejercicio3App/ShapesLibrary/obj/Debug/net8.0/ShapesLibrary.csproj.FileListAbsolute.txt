@@ -1,0 +1,11 @@
+C:\Users\ivanb\formularios\repos\Ejercicio3App\ShapesLibrary\bin\Debug\net8.0\ShapesLibrary.deps.json
+C:\Users\ivanb\formularios\repos\Ejercicio3App\ShapesLibrary\bin\Debug\net8.0\ShapesLibrary.dll
+C:\Users\ivanb\formularios\repos\Ejercicio3App\ShapesLibrary\bin\Debug\net8.0\ShapesLibrary.pdb
+C:\Users\ivanb\formularios\repos\Ejercicio3App\ShapesLibrary\obj\Debug\net8.0\ShapesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanb\formularios\repos\Ejercicio3App\ShapesLibrary\obj\Debug\net8.0\ShapesLibrary.AssemblyInfoInputs.cache
+C:\Users\ivanb\formularios\repos\Ejercicio3App\ShapesLibrary\obj\Debug\net8.0\ShapesLibrary.AssemblyInfo.cs
+C:\Users\ivanb\formularios\repos\Ejercicio3App\ShapesLibrary\obj\Debug\net8.0\ShapesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\formularios\repos\Ejercicio3App\ShapesLibrary\obj\Debug\net8.0\ShapesLibrary.dll
+C:\Users\ivanb\formularios\repos\Ejercicio3App\ShapesLibrary\obj\Debug\net8.0\refint\ShapesLibrary.dll
+C:\Users\ivanb\formularios\repos\Ejercicio3App\ShapesLibrary\obj\Debug\net8.0\ShapesLibrary.pdb
+C:\Users\ivanb\formularios\repos\Ejercicio3App\ShapesLibrary\obj\Debug\net8.0\ref\ShapesLibrary.dll
